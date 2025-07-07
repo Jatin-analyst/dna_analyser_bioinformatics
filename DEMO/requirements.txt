@@ -1,7 +1,6 @@
-Required Libraries : 
-
 Pandas 
 Seaborn
 NumPy
+Matplotlib
 streamlit>=1.0
 biopython>=1.79
