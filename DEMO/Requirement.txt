@@ -2,6 +2,6 @@ Required Libraries :
 
 Pandas 
 Seaborn
-BIOpython (bio)
 NumPy
-Streamlit(for Demo App)
+streamlit>=1.0
+biopython>=1.79
