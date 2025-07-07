@@ -1,0 +1,7 @@
+Required Libraries : 
+
+Pandas 
+Seaborn
+BIOpython (bio)
+NumPy
+Streamlit(for Demo App)
