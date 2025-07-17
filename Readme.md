@@ -1,4 +1,4 @@
-# 🧬 DNA Sequence Analyzer & Mutation Detector:- This computer program that reads DNA data and creates beautiful charts and reports about it. Think of it like a sophisticated DNA detective that can tell you everything about your genetic sequences!
+# 🧬 DNA Sequence Analyzer & Mutation Detector:
 
 This isn't just a simple DNA reader - it's a Comprehensive analysis toolkit that:
 
@@ -48,5 +48,7 @@ dna_analyzer_project/
 - Quality Control : Checking if DNA sequencing worked correctly
 - Drug Development : Understanding hoe genes affect drug responses.
 
+## DNA_Analyser_APP for Demo :
+--This the live demo app link :  https://dnaanalyserbioinformatics-c4mknaqhkkczuxglqmpuam.streamlit.app/ --
 
 
